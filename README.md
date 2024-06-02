@@ -80,11 +80,6 @@ I'm a passionate WordPress and PHP developer with a knack for creating seamless,
 
 - **Email:** [pritbhuva2861@gmail.com](mailto:pritbhuva2861@gmail.com)
 
-
-## My Contribution snake
-
-![Contribution snake example](https://github.com/Prit-Bhuva/Prit-Bhuva/blob/output/github-contribution-grid-snake.svg)
-
 ## 💬 Let's Connect
 
 I'm always open to discussing web development, project ideas, and collaboration opportunities. Feel free to reach out!
